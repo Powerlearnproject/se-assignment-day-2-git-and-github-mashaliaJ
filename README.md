@@ -89,23 +89,24 @@ Tracks Changes – Every commit saves changes with a unique identifier (SHA-1 ha
 Maintains History – Developers can review previous versions of code.
 Facilitates Collaboration – Team members can work independently and merge updates.
 Enables Rollbacks – If an error is introduced, you can revert to an earlier commit.
+
 Steps to Make Your First Commit to a GitHub Repository
 Step 1: Create a New GitHub Repository
 Log in to GitHub.
 Click on the "+" icon (top-right corner) → Select "New repository".
 Enter a repository name, choose public/private, and click "Create repository".
 Step 2: Set Up Git Locally
-Install Git if you haven't already:
+Install Git if you haven't already
 Download Git
-Configure Git with your name and email:
+Configure Git with your name and email
 Step 3: Clone the Repository (If Created on GitHub)
-To work locally, clone the repository:
+To work locally, clone the repository
 Step 4: Add Files to the Repository
-Create or add a new file (e.g., README.md):
+Create or add a new file (e.g., README.md)
 Step 5: Commit the Changes
-Commit the added files with a message:
+Commit the added files with a message
 Step 6: Push the Commit to GitHub
-Upload your changes to GitHub:
+Upload your changes to GitHub
 Step 7: Verify the Commit on GitHub
 Go to your GitHub repository.
 Click on the "Commits" section to view your commit history.
